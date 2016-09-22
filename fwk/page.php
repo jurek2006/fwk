@@ -3,7 +3,7 @@
         <div id="main-container" class="clearfix">
             <section id="content-container" class="column-9-scalable">
                 <?php
-                    
+
                     //Początek pętli
                     while( have_posts() ) : the_post(); 
                         
